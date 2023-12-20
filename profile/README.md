@@ -1,4 +1,4 @@
-![image](https://github.com/SewainID/.github/assets/110903076/5e16e77c-1f55-4d3f-9252-fc8c99732b76)<h1 align="center">Sewain</h1>
+![image](https://github.com/SewainID/.github/assets/110903076/5e16e77c-1f55-4d3f-9252-fc8c99732b76)<h1 align="center">SewaIn</h1>
 <h3 align="center">Application for costume rental and costume rental market services, find your style here and look for opportunities!</h3>
 <p align="center">
 
