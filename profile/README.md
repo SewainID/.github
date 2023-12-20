@@ -1,11 +1,11 @@
-<h1 align="center">SewaIN</h1>
+![image](https://github.com/SewainID/.github/assets/110903076/5e16e77c-1f55-4d3f-9252-fc8c99732b76)<h1 align="center">SewaIN</h1>
 <h3 align="center">Application for costume rental and costume rental market services, find your style here and look for opportunities!</h3>
 <p align="center">
-![Sewain Mockup](https://images-ext-1.discordapp.net/external/GWRwuFcpU44ZoPP1EBOT6prsuy5HaUJy_XzJPzvhyME/https/storage.googleapis.com/sewain/Sewain_Mockup_Logo%2520%281%29.png?format=webp&quality=lossless&width=1144&height=622)
+![Sewain Mockup](https://media.discordapp.net/attachments/982290716011167745/1186974401149804555/Sewain_Mockup_Logo.png?ex=6595330e&is=6582be0e&hm=9bcce5b975896d831d40f6f045b325746d2318411f0ba3588166fa43a133f6aa&=&format=webp&quality=lossless&width=1144&height=622)
 
 
 
-# SewaIN
+# SewaIN : Application for costume rental and costume rental market services, find your style here and look for opportunities!
 
 
 "SewaIN" is motivated by the opportunity to create a solution that not only aligns with this evolving trend but also provides tangible benefits to customers and rental businesses alike. By addressing these core issues, we hope to make a positive impact on the industry, enhance the customer experience, and support the growth of rental businesses. We believe that through this approach, we can transform the dynamics of the fashion and costume rental industry, making it more efficient and beneficial for all parties involved.
