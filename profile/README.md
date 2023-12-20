@@ -1,10 +1,10 @@
-![image](https://github.com/SewainID/.github/assets/110903076/5e16e77c-1f55-4d3f-9252-fc8c99732b76)<h1 align="center">SewaIN</h1>
+![image](https://github.com/SewainID/.github/assets/110903076/5e16e77c-1f55-4d3f-9252-fc8c99732b76)<h1 align="center">Sewain</h1>
 <h3 align="center">Application for costume rental and costume rental market services, find your style here and look for opportunities!</h3>
 <p align="center">
 
 
 
-# SewaIN : Application for costume rental and costume rental market services, find your style here and look for opportunities!
+# Sewain : Application for costume rental and costume rental market services, find your style here and look for opportunities!
 
 
 "SewaIN" is motivated by the opportunity to create a solution that not only aligns with this evolving trend but also provides tangible benefits to customers and rental businesses alike. By addressing these core issues, we hope to make a positive impact on the industry, enhance the customer experience, and support the growth of rental businesses. We believe that through this approach, we can transform the dynamics of the fashion and costume rental industry, making it more efficient and beneficial for all parties involved.
@@ -37,8 +37,8 @@ Dataset Links of This Project :
 
 ## Deployment Link APK SewaIN
 
-Download Link APK SewaIN:<br>
-[SewaIN APK](#)
+Download Link APK Sewain:<br>
+[Sewain APK](#)
 
 
 ## Languages and Tools:
