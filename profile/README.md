@@ -1,7 +1,6 @@
 ![image](https://github.com/SewainID/.github/assets/110903076/5e16e77c-1f55-4d3f-9252-fc8c99732b76)<h1 align="center">SewaIN</h1>
 <h3 align="center">Application for costume rental and costume rental market services, find your style here and look for opportunities!</h3>
 <p align="center">
-![Sewain Mockup](https://media.discordapp.net/attachments/982290716011167745/1186974401149804555/Sewain_Mockup_Logo.png?ex=6595330e&is=6582be0e&hm=9bcce5b975896d831d40f6f045b325746d2318411f0ba3588166fa43a133f6aa&=&format=webp&quality=lossless&width=1144&height=622)
 
 
 
