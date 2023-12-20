@@ -1,10 +1,8 @@
 <h1 align="center">SewaIN</h1>
 <h3 align="center">Application for costume rental and costume rental market services, find your style here and look for opportunities!</h3>
 <p align="center">
-  <a href="https://storage.googleapis.com/sewain/Sewain_Mockup_Logo%20(1).png">
-    <img src="https://storage.googleapis.com/sewain/Sewain_Mockup_Logo%20(1).png" alt="Sewain Mockup Logo" width="2480" border="0">
-  </a>
-</p>
+![Sewain Mockup](https://images-ext-1.discordapp.net/external/GWRwuFcpU44ZoPP1EBOT6prsuy5HaUJy_XzJPzvhyME/https/storage.googleapis.com/sewain/Sewain_Mockup_Logo%2520%281%29.png?format=webp&quality=lossless&width=1144&height=622)
+
 
 
 # SewaIN
