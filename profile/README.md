@@ -5,6 +5,7 @@
 
 "SewaIN" is motivated by the opportunity to create a solution that not only aligns with this evolving trend but also provides tangible benefits to customers and rental businesses alike. By addressing these core issues, we hope to make a positive impact on the industry, enhance the customer experience, and support the growth of rental businesses. We believe that through this approach, we can transform the dynamics of the fashion and costume rental industry, making it more efficient and beneficial for all parties involved.
 
+<h2 align="center"> Express yourself! </h2>
 
 ## Authors by Team ID: `CH2-PS129`
 | Name | Bangkit-ID     | Github-Profile                       |
